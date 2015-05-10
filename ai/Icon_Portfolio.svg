@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<g id="Screen">
+	<path fill="#FFFFFF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M284.5,249.1H81.9c-6.6,0-12-5.4-12-12V107.3
+		c0-6.6,5.4-12,12-12h202.6c6.6,0,12,5.4,12,12v129.7C296.5,243.7,291.1,249.1,284.5,249.1z"/>
+</g>
+<g id="Hight_Light">
+	<path opacity="0.59" fill="#E6E7E8" d="M192.5,89.8l13.8,11.1c0,0,32.7,0,76.4,0.3c8.7,3.3,8.4,9.7,8.3,14.4
+		c-0.2,10.3,0.1,46.7,0.1,46.7l11.2,14.3c0,0,0.3-37.9,0.3-62.7c0-2.8-1.5-24.1-23.6-24.1C236.7,89.8,192.5,89.8,192.5,89.8z"/>
+	<circle opacity="0.27" fill="none" stroke="#E6E7E8" stroke-width="0.3" stroke-miterlimit="10" cx="185.7" cy="95.9" r="1.4"/>
+</g>
+<g id="Bottom">
+	<path fill="#D1D3D4" d="M85.9,253.2H36.2c0,0,4.3,13.9,17,13.9s263.5-0.1,269.9-0.1c8,0,13.3-13.8,13.3-13.8L85.9,253.2H36.2"/>
+</g>
+<g id="Bottom_1_">
+	<path fill="#3B3C3E" d="M324.7,265.1H48.1c-0.8,0-1.4-0.6-1.4-1.4v-1.1c0-0.8,0.6-1.4,1.4-1.4h276.6c0.8,0,1.4,0.6,1.4,1.4v1.1
+		C326.1,264.5,325.5,265.1,324.7,265.1z"/>
+</g>
+</svg>
